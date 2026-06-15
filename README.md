@@ -20,5 +20,5 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MySQL
 - Data Engineering
 
 ## Connect with Me
-LinkedIn: Your LinkedIn URL
-Email: your_email@example.com
+LinkedIn: https://www.linkedin.com/in/shubhankar-mohanty-2772942a4/
+Email: mohantyshubhankar9.com
